@@ -46,8 +46,7 @@ This project is an **AI-powered medical transcription and analysis system** desi
 
 ### 1. **Clone the Repository**
 ```bash
-git clone <repository_url>
-cd medical_nlp_pipeline
+git clone https://github.com/jenniferteresageorge/physian-notetaker.git
 ```
 
 ### 2. **Create a Virtual Environment**
