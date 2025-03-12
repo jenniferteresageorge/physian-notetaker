@@ -124,17 +124,7 @@ Intent: Seeking reassurance
 
 ---
 
-## 🔍 Project Structure
-```
-.
-├── main.py                  # Main script to run the pipeline
-├── nlp_pipeline.py          # Medical NLP functions for summarization
-├── sentiment_analysis.py    # Sentiment & intent analysis logic
-├── soap_note_generator.py   # SOAP note generation logic
-├── requirements.txt         # Dependencies for the project
-├── README.md                # Project documentation
-```
-
----
-
+## OUTPUT:
+##![image](https://github.com/user-attachments/assets/90e85aa7-ff2d-40a1-8470-811afdd18535)
+##![image](https://github.com/user-attachments/assets/c5400cd3-e557-4869-91c0-0322aed941e1)
 
