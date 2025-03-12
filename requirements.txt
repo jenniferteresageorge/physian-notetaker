@@ -1,0 +1,6 @@
+transformers
+torch
+spacy
+scikit-learn
+nltk
+pydantic
